@@ -1,0 +1,89 @@
+.home{
+    margin: 0;
+    padding: 0;
+}
+.home-top{
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.home-heading{
+    margin-left: 10%;
+    font-size: 4vh;
+}
+.profile-btn{
+    margin-left: 23%;
+    height: 40px;
+    width: 120px;
+    margin-top: 3%;
+    background: #FFDAB9;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.logout-btn{
+    margin-right: 15%;
+    margin-left: 1%;
+    height: 40px;
+    width: 90px;
+    margin-top: 3%;
+    border: none;
+    border-radius: 5px;
+    background: #FFDAB9;
+    cursor: pointer;
+}
+.body-home{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.btn-s{
+    width: 30%;
+    margin-left: 2%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btn-t{
+    width: 30%;
+    margin-left: 3%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btn-i{
+    width: 30%;
+    margin-left: 3%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.selected-role{
+    margin-left: 25%;
+    font-size: 2.5vh;
+}
+.users-list{
+    width: 50%;
+    margin-left: 25%;
+    cursor: pointer;
+    margin-top: 1vh;
+    border-radius: 8px;
+    background: #FFE6E8;
+    height: 8vh;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+.username-list{
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 5%;
+}
+.useremail-list{
+    margin-top: 1%;
+    margin-left: 5%;
+}

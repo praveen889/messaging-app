@@ -1,0 +1,42 @@
+.chat{
+    height: 80vh;
+    width: 30%;
+    margin-left: 35%;
+    padding-left: 0%;
+    border: 1px solid #000;
+    margin-top: 2%;
+    border-radius: 10px;
+    background: #F5F5F5;
+}
+.user-n{
+    font-size: 3.5vh;
+    margin-left: 5%;
+    margin-top: 0%;
+    padding-top: 5%;
+}
+.chat-box{
+    margin-bottom: 20px;
+    max-height: 80vh;
+    overflow-y: scroll;
+    width: 90%;
+    margin-left: 5%;
+}
+.textarea{
+    width: 98%;
+    height: 40px;
+}
+.bottom{
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.send-btn{
+    width: 24%;
+    height: 40px;
+    margin-top: 2%;
+    border-radius: 5px;
+    border: none;
+    color: #FFF;
+    background: #000;
+}

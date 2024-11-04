@@ -1,0 +1,95 @@
+.register-form{
+    width: 30%;
+    height: 50%;
+    margin-top: 12%;
+    margin-left: 35%;
+    border: 1px solid #000;
+    border-radius: 10px;
+    font-weight: bold;
+    background: #F5F5F5;
+}
+
+.register{
+    font-size: 3.5vh;
+    text-align: start;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.name{
+    width: 80%;
+}
+.phoneno{
+    width: 80%;
+    margin-top: 5%;
+}
+
+.password{
+    width: 80%;
+    margin-top: 5%;
+}
+.email{
+    width: 80%;
+    margin-top: 5%;
+}
+.name-input{
+    width: 75%;
+    height: 3vh;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: #F5F5F5;
+}
+.email-input{
+    width: 75%;
+    height: 3vh;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: #F5F5F5;
+}
+.phoneno-input{
+    width: 75%;
+    height: 3vh;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: #F5F5F5;
+}
+.password-input{
+    width: 75%;
+    height: 3vh;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: #F5F5F5;
+}
+.submit{
+    margin-top: 5%;
+    height: 3vh;
+    width: 5vw;
+    border-radius: 5px;
+    border: none;
+    color: #FFF;
+    background: #000;
+}
+.last{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-weight: 500;
+}
+.dropdown{
+    width: 76%;
+    margin-top: 5%;
+}
+.role{
+    height: 4vh;
+    width: 80%;
+    background: #F5F5F5;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid grey;
+    color: grey;
+}
+

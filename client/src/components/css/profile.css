@@ -1,0 +1,55 @@
+.profile{
+    height: 60vh;
+    margin-top: 15vh;
+    margin-left: 30%;
+    width: 35%;
+    border: 1px solid #000;
+    padding-left: 5%;
+    border-radius: 10px;
+    background: #F5F5F5;
+}
+.p-text{
+    font-size: 4vh;
+    margin-top: 10%;
+}
+.profile-name{
+    width: 60%;
+}
+.f-text{
+}
+.f-input{
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 16px;
+    width: 90%;
+    background: #F5F5F5;
+}
+.role{
+    height: 4vh;
+    width: 90%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid grey;
+    color: grey;
+    background: none;
+}
+.buttons{
+    margin-top: 4%;
+}
+.l-btn{
+    height: 40px;
+    width: 120px;
+    margin-left: 2%;
+    border-radius: 5px;
+    border: none;
+    background: #000;
+}
+.l-btn-1{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    border: none;
+    background: #000;
+    color: #fff;
+}
